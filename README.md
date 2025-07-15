@@ -79,4 +79,4 @@ This is a **frontend-only implementation**. AI messages and OTP flows are simula
 **Pratik Raj**  
 Frontend Developer  
 📧 kpratik071997@gmail.com  
-🌐 [My Portfolio](https://myporfolio-kpratik0709.vercel.app/)
+🌐 [My Portfolio](https://my-portfolio-kpratik0709.vercel.app/)

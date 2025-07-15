@@ -1,6 +1,6 @@
 # Gemini Frontend
 
-A modern, responsive, and feature-rich frontend application that simulates a Gemini-style conversational AI chat experience. Built as part of the **Kuvaka Tech Frontend Developer Assignment**, this project showcases skills in UI/UX design, component-based architecture, state management, and client-side logic.
+A modern, responsive, and feature-rich frontend application  that simulates a Gemini-style conversational AI chat experience. This project showcases my skills in UI/UX design, component-based architecture, state management, and modern client-side development using React, Redux, and Tailwind CSS.
 
 ---
 
